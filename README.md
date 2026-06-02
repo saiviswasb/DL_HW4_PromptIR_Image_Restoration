@@ -175,5 +175,6 @@ python main.py --infer
 ## Author
 
 **Basetti Sai Viswas**
+**314561003**
 
-Deep Learning HW4 – Image Restoration Using Modified PromptIR
+Visual Recognition using Deep Learning HW4 – Image Restoration Using Modified PromptIR
